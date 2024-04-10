@@ -1,0 +1,1 @@
+This repository contains analysis of the processed fMRI data from the "streams" project. The actual processing of the fMRI data does not occur in this repo, only the multi-subject analyses of the final data.
